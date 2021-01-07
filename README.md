@@ -1,4 +1,3 @@
-
 <h1> <CENTER>  <FONT FACE="courier" SIZE=10 COLOR="BLUE">
                                        Conoce más sobre nosotros aquí </FONT> </CENTER>  </h1> 
 <pre>
@@ -13,5 +12,3 @@
  </body>
 
 
-
-</html>
